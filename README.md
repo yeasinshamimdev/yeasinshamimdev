@@ -23,8 +23,8 @@ Thanks for checking out my profile. Let's build something amazing together!
 
 
 
-Best regards, 
 
+Best regards, 
 
 Yeasin Shamim
 
