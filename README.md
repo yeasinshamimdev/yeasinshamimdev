@@ -4,7 +4,29 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-Hello, This is Yeasin Shamim, And I’m a full-stack developer with a passion for creating seamless and innovative web applications. I have 2 years of hands-on experience. In July 2022, I got a solid 3-month paid internship from Mind Harmonics in Punjab. After that, I have been working remotely with Layerhub SRL in Peru since September 2022. There I'm putting my expertise to use in real-world projects. I'm your go-to person for all things web-related – whether it's HTML, CSS, Javascript, TypeScript, React.js, Next.js, Vue.js, Bootstrap, Tailwind CSS, Ant Design, Node.js, Express.js, API Integration, REST API, MongoDB, SQL, PostgreSQL, Prisma, GraphQL, Docker, Linux, Amazon Web Services, Figma to React.js, etc. I'm all about teamwork and good communication. I want to understand your project inside out, just like I did during my internship and my current remote job with Layerhub SRL. Let's work together to make your project awesome! If you're on the lookout for a developer with real-world experience who can bring your ideas to life, hit me up! Let's talk about how I can help make your project stand out. Don't be shy – drop me a message, and let's get started! Thanks for checking out my profile. Let's build something amazing together! Best regards, Yeasin Shamim
+Hello, This is Yeasin Shamim, And I’m a full-stack developer with a passion for creating seamless and innovative web applications. 
+
+
+I have 2 years of hands-on experience. In July 2022, I got a solid 3-month paid internship from Mind Harmonics in Punjab. After that, I have been working remotely with Layerhub SRL in Peru since September 2022. There I'm putting my expertise to use in real-world projects. 
+
+
+I'm a go-to person for all things web-related – whether it's HTML, CSS, Javascript, TypeScript, React.js, Next.js, Vue.js, Bootstrap, Tailwind CSS, Ant Design, Node.js, Express.js, API Integration, REST API, MongoDB, SQL, PostgreSQL, Prisma, GraphQL, Docker, Linux, Amazon Web Services, Figma to React.js, etc. 
+
+
+I'm all about teamwork and good communication. I want to understand your project inside out, just like I did during my internship and my current remote job with Layerhub SRL. 
+
+
+Let's work together to make your project awesome! If you're on the lookout for a developer with real-world experience who can bring your ideas to life, hit me up! Let's talk about how I can help make your project stand out. Don't be shy – drop me an email, and let's get started! 
+
+
+Thanks for checking out my profile. Let's build something amazing together! 
+
+
+
+Best regards, 
+
+
+Yeasin Shamim
 
 * 🌍  I'm based in Noakhali, Bangladesh.
 * 🖥️  See my portfolio at [Yeasin Shamim](http://yeasin-shamim.web.app)
