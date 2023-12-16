@@ -30,7 +30,7 @@ Best regards,
 
 Yeasin Shamim
 
-* yeasin.shamim.dev@gmail.com
+
 
 * 🌍  I'm based in Noakhali, Bangladesh.
 * 🖥️  See my portfolio at [Yeasin Shamim](http://yeasin-shamim.web.app)
