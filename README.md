@@ -17,7 +17,7 @@ I'm a go-to person for all things web-related – whether it's HTML, CSS, Javasc
 
 I'm all about teamwork and good communication. I want to understand your project inside out, just like I did during my internship and my current remote job with Layerhub SRL. Let's work together to make your project awesome! 
 
-If you're on the lookout for a developer with real-world experience who can bring your ideas to life, hit me up! Let's talk about how I can help make your project stand out. Don't be shy – drop me an email, and let's get started! 
+If you're on the lookout for a developer with real-world experience who can bring your ideas to life, hit me up! I'd like to talk about how I can help make your project stand out. Don't be shy – email me, and let's get started! 
 
 
 Thanks for checking out my profile. Let's build something amazing together! 
@@ -25,15 +25,21 @@ Thanks for checking out my profile. Let's build something amazing together!
 
 
 
+
 Best regards, 
+
 Yeasin Shamim
+
+*
+
+yeasin.shamim.dev@gmail.com
 
 * 🌍  I'm based in Noakhali, Bangladesh.
 * 🖥️  See my portfolio at [Yeasin Shamim](http://yeasin-shamim.web.app)
 * ✉️  You can contact me at [yeasin.shamim.dev@gmail.com](mailto:yeasin.shamim.dev@gmail.com)
 * 🚀  I'm currently working on [Merchant App](http://merchant.everlab.co)
 * 🧠  I'm learning Machine Learning.
-* 🤝  I'm open to collaborating on React.js, Next.js, Vue.js, Express.js, MongoDB, SQL and PostgreSQL based projects.
+* 🤝  I'm open to collaborating on React.js, Next.js, Vue.js, Express.js, MongoDB, SQL and PostgreSQL-based projects.
 
 ### Skills
 
