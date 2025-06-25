@@ -1,3 +1,5 @@
+![Header](./your-header-image-name.png)
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yeasin Shamim
 =====================================================================================================================================
 
@@ -6,16 +8,16 @@ Full Stack Developer
 
 Hello, 
 
-This is Yeasin Shamim, And I’m a full-stack developer with a passion for creating seamless and innovative web applications. 
+This is Yeasin Shamim, and I’m a full-stack developer with a passion for creating seamless and innovative web applications. 
 
 
-I have 2 years of hands-on experience. In July 2022, I got a solid 3-month paid internship from Mind Harmonics in Punjab. After that, I have been working remotely with Layerhub SRL in Peru since September 2022. There I'm putting my expertise to use in real-world projects. 
+I have 3 years of hands-on experience. In July 2022, I secured a 3-month paid internship at Mind Harmonics in Punjab. Since September 2022, I have worked remotely with Layerhub SRL in Peru. There, I'm putting my expertise to use in real-world projects. 
 
 
 I'm a go-to person for all things web-related – whether it's HTML, CSS, Javascript, TypeScript, React.js, Next.js, Vue.js, Bootstrap, Tailwind CSS, Ant Design, Node.js, Express.js, API Integration, REST API, MongoDB, SQL, PostgreSQL, Prisma, GraphQL, Docker, Linux, Amazon Web Services, Figma to React.js, etc. 
 
 
-I'm all about teamwork and good communication. I want to understand your project inside out, just like I did during my internship and my current remote job with Layerhub SRL. Let's work together to make your project awesome! 
+I'm all about teamwork and good communication. I want to understand your project inside out, just like I did during my internship and my remote job with Layerhub SRL. Let's work together to make your project awesome! 
 
 If you're on the lookout for a developer with real-world experience who can bring your ideas to life, hit me up! I'd like to talk about how I can help make your project stand out. Don't be shy – email me, and let's get started! 
 
@@ -35,7 +37,7 @@ Yeasin Shamim
 * 🌍  I'm based in Noakhali, Bangladesh.
 * 🖥️  See my portfolio at [Yeasin Shamim](http://yeasin-shamim.web.app)
 * ✉️  You can contact me at [yeasin.shamim.dev@gmail.com](mailto:yeasin.shamim.dev@gmail.com)
-* 🚀  I'm currently working on [Merchant App](http://merchant.everlab.co)
+* 🚀  I'm currently working on [Beast Nation](https://beast-nation.vercel.app)
 * 🧠  I'm learning Machine Learning.
 * 🤝  I'm open to collaborating on React.js, Next.js, Vue.js, Express.js, MongoDB, SQL and PostgreSQL-based projects.
 
