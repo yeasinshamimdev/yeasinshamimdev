@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://yeasinshamim.dev"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://yeasin-shamim-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/yeasin-shamim-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:yeasin.shamim.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/yeasinshamimdev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -141,13 +141,13 @@ const yeasin = {
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Brand Sponsorship Analytics</h3>
+        <h3 align="center">Everlab</h3>
         <div align="center">
-          <a href="https://brand-sponsorship-dashboard-ai2s.vercel.app" target="_blank">
+          <a href="https://www.everlab.co" target="_blank">
             <img src="https://img.shields.io/badge/🔗_Live_Demo-6366F1?style=for-the-badge" alt="Live Demo" />
           </a>
-          <p><strong>YouTube Analytics Dashboard</strong></p>
-          <p>9.3K+ Brands • 1M+ Videos • 812.8B Total Views</p>
+          <p><strong>Formulating the future of CPG, health, & beyond.</strong></p>
+          <p>3K+ Brands • 100k+ products • 12.1M+ Sells</p>
           <p>
             <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
             <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
@@ -235,7 +235,7 @@ I'm always excited to connect with fellow developers, collaborate on interesting
 <p align="center">
   <a href="https://linkedin.com/in/yeasin-shamim-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:yeasin.shamim.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://twitter.com/YS_YeasinShamim"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://x.com/yeasin_shamim1"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
 ### 💼 Open for Opportunities
