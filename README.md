@@ -38,7 +38,7 @@ const yeasin = {
   },
   
   achievements: {
-    projectsCompleted: "20+",
+    projectsCompleted: "35+",
     companiesWorked: 3,
     certificationsEarned: 3,
     clientSatisfaction: "100%"
@@ -51,8 +51,9 @@ const yeasin = {
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Everlab_Co-2024-6366F1?style=for-the-badge" alt="Everlab Co" /><br/>
+      <img src="https://img.shields.io/badge/Everlab_Co-2024-2025-6366F1?style=for-the-badge" alt="Everlab Co" /><br/>
       <b>Full-Stack Developer</b><br/>
+      <sub>USA (Remote)</sub>
       <sub>Letter of Recommendation ✅</sub>
     </td>
     <td align="center" width="33%">
@@ -214,7 +215,7 @@ const yeasin = {
 
 ## 🎯 Current Focus
 
-- 🔭 Working on **[Trendy Nation](https://beast-nation.vercel.app)** - Revolutionizing the creator economy
+- 🔭 Working on **[Clipping jobs](https://clippingjobs-com.vercel.app)** - Discover Campaigns Start clipping for creators & brands
 - 🌱 Learning **Machine Learning & AI Integration** for enhanced web experiences
 - 👯 Open to collaborate on **React.js, Next.js, Node.js** projects
 - 💬 Ask me about **Full-Stack Development, System Architecture, Best Practices**
