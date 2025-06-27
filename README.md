@@ -51,9 +51,9 @@ const yeasin = {
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Everlab_Co-2024-2025-6366F1?style=for-the-badge" alt="Everlab Co" /><br/>
+      <img src="https://img.shields.io/badge/Everlab_Co-2024--2025-6366F1?style=for-the-badge" alt="Everlab Co" /><br/>
       <b>Full-Stack Developer</b><br/>
-      <sub>USA (Remote)</sub>
+      <sub>USA (Remote)</sub><br/>
       <sub>Letter of Recommendation ✅</sub>
     </td>
     <td align="center" width="33%">
