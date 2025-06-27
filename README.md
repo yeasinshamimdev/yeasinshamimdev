@@ -1,51 +1,260 @@
 ![Header](./github-header-image.png)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yeasin Shamim
-=====================================================================================================================================
+<div align="center">
+  
+# 👋 Hi, I'm Yeasin Shamim
 
-Full Stack Developer
---------------------
-
-Hello, 
-
-This is Yeasin Shamim, and I’m a full-stack developer with a passion for creating seamless and innovative web applications. 
-
-
-I have 3 years of hands-on experience. In July 2022, I secured a 3-month paid internship at Mind Harmonics in Punjab. Since September 2022, I have worked remotely with Layerhub SRL in Peru. There, I'm putting my expertise to use in real-world projects. 
-
-
-I'm a go-to person for all things web-related – whether it's HTML, CSS, Javascript, TypeScript, React.js, Next.js, Vue.js, Bootstrap, Tailwind CSS, Ant Design, Node.js, Express.js, API Integration, REST API, MongoDB, SQL, PostgreSQL, Prisma, GraphQL, Docker, Linux, Amazon Web Services, Figma to React.js, etc. 
-
-
-I'm all about teamwork and good communication. I want to understand your project inside out, just like I did during my internship and my remote job with Layerhub SRL. Let's work together to make your project awesome! 
-
-If you're on the lookout for a developer with real-world experience who can bring your ideas to life, hit me up! I'd like to talk about how I can help make your project stand out. Don't be shy – email me, and let's get started! 
-
-
-Thanks for checking out my profile. Let's build something amazing together! 
-
-
-
-
-
-Best regards, 
-
-Yeasin Shamim
-
-
-
-* 🌍  I'm based in Noakhali, Bangladesh.
-* 🖥️  See my portfolio at [Yeasin Shamim](http://yeasin-shamim.web.app)
-* ✉️  You can contact me at [yeasin.shamim.dev@gmail.com](mailto:yeasin.shamim.dev@gmail.com)
-* 🚀  I'm currently working on [Beast Nation](https://beast-nation.vercel.app)
-* 🧠  I'm learning Machine Learning.
-* 🤝  I'm open to collaborating on React.js, Next.js, Vue.js, Express.js, MongoDB, SQL and PostgreSQL-based projects.
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://remix.run/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/remix-colored.svg" width="36" height="36" alt="Remix" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;4%2B+Years+of+Experience;React.js+%7C+Next.js+%7C+Node.js;Building+Digital+Experiences" alt="Typing SVG" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://yeasinshamim.dev"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/yeasin-shamim-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:yeasin.shamim.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/yeasinshamimdev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+</div>
+
+## 🚀 About Me
+
+I'm a passionate Full-Stack Developer with **4+ years** of hands-on experience in building scalable web applications. I specialise in creating seamless and innovative digital experiences that make a real impact.
+
+```javascript
+const yeasin = {
+  location: "Noakhali, Bangladesh 🌍",
+  currentRole: "Full-Stack Developer",
+  currentlyWorkingOn: "Trendy Nation - Influencer Marketing Platform",
+  currentlyLearning: "Machine Learning & AI Integration",
+  availableForFreelance: true,
+  
+  skills: {
+    frontend: ["React.js", "Next.js", "Vue.js", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js", "GraphQL", "REST APIs"],
+    database: ["MongoDB", "PostgreSQL", "MySQL", "Prisma", "Redis"],
+    cloud: ["AWS", "Docker", "Vercel", "Railway", "Netlify"],
+    tools: ["Git", "Figma", "Postman", "Linux", "Nginx"]
+  },
+  
+  achievements: {
+    projectsCompleted: "20+",
+    companiesWorked: 3,
+    certificationsEarned: 3,
+    clientSatisfaction: "100%"
+  }
+};
+```
+
+## 💼 Professional Journey
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Everlab_Co-2024-6366F1?style=for-the-badge" alt="Everlab Co" /><br/>
+      <b>Full-Stack Developer</b><br/>
+      <sub>Letter of Recommendation ✅</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/LayerHub_SRL-2023--2024-4F46E5?style=for-the-badge" alt="LayerHub SRL" /><br/>
+      <b>Full-Stack Developer</b><br/>
+      <sub>Peru (Remote) • 1+ Year</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Mind_Harmonics-2022-818CF8?style=for-the-badge" alt="Mind Harmonics" /><br/>
+      <b>Web Developer Intern</b><br/>
+      <sub>Punjab • 3 Months</sub>
+    </td>
+  </tr>
+</table>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Styling
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+### Database & ORM
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+
+</div>
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Trendy Nation</h3>
+        <div align="center">
+          <a href="https://beast-nation.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/🔗_Live_Demo-6366F1?style=for-the-badge" alt="Live Demo" />
+          </a>
+          <p><strong>Influencer Marketing Platform</strong></p>
+          <p>Revolutionary creator economy platform connecting brands with influencers</p>
+          <p>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+            <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Brand Sponsorship Analytics</h3>
+        <div align="center">
+          <a href="https://brand-sponsorship-dashboard-ai2s.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/🔗_Live_Demo-6366F1?style=for-the-badge" alt="Live Demo" />
+          </a>
+          <p><strong>YouTube Analytics Dashboard</strong></p>
+          <p>9.3K+ Brands • 1M+ Videos • 812.8B Total Views</p>
+          <p>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+            <img src="https://img.shields.io/badge/Recharts-FF6384?style=flat" />
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">VidSumAI</h3>
+        <div align="center">
+          <a href="https://vidsum-ai-ten.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/🔗_Live_Demo-6366F1?style=for-the-badge" alt="Live Demo" />
+          </a>
+          <p><strong>AI Video Summarizer</strong></p>
+          <p>YouTube video summarization with AI-powered insights</p>
+          <p>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+            <img src="https://img.shields.io/badge/AI_Integration-4285F4?style=flat" />
+            <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=flat&logo=youtube&logoColor=white" />
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Social Beast</h3>
+        <div align="center">
+          <a href="https://socialbeast.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/🔗_Live_Demo-6366F1?style=for-the-badge" alt="Live Demo" />
+          </a>
+          <p><strong>Social Media Analytics</strong></p>
+          <p>Multi-platform analytics with demographic insights</p>
+          <p>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+            <img src="https://img.shields.io/badge/Charts.js-FF6384?style=flat&logo=chart.js&logoColor=white" />
+            <img src="https://img.shields.io/badge/APIs-0052CC?style=flat" />
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <a href="https://github.com/yeasinshamimdev?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
+  </a>
+</p>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeasinshamimdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasinshamimdev&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeasinshamimdev&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yeasinshamimdev&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+## 🎯 Current Focus
+
+- 🔭 Working on **[Trendy Nation](https://beast-nation.vercel.app)** - Revolutionizing the creator economy
+- 🌱 Learning **Machine Learning & AI Integration** for enhanced web experiences
+- 👯 Open to collaborate on **React.js, Next.js, Node.js** projects
+- 💬 Ask me about **Full-Stack Development, System Architecture, Best Practices**
+- ⚡ Fun fact: **I turn coffee into code and bugs into features! ☕**
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeasinshamimdev&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+I'm always excited to connect with fellow developers, collaborate on interesting projects, or help bring your ideas to life!
+
+<p align="center">
+  <a href="https://linkedin.com/in/yeasin-shamim-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:yeasin.shamim.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://twitter.com/YS_YeasinShamim"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</p>
+
+### 💼 Open for Opportunities
+
+<img src="https://img.shields.io/badge/Available_for_Freelance_Projects-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Available" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yeasinshamimdev&style=for-the-badge&color=6366F1" alt="Profile Views" />
+  
+  <p>
+    <sub>⭐ If you find my work interesting, don't forget to star the repositories!</sub>
+  </p>
+</div>
 
 ### Socials
 
