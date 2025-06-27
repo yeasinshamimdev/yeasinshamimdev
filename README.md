@@ -53,7 +53,7 @@ const yeasin = {
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/Everlab_Co-2024--2025-6366F1?style=for-the-badge" alt="Everlab Co" /><br/>
       <b>Full-Stack Developer</b><br/>
-      <sub>USA (Remote) • Letter of Recommendation</sub>
+      <sub>USA • Letter of Recommendation</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/LayerHub_SRL-2023--2024-4F46E5?style=for-the-badge" alt="LayerHub SRL" /><br/>
