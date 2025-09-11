@@ -125,7 +125,7 @@ const yeasin = {
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
+<!--       <td width="50%">
         <h3 align="center">Trendy Nation</h3>
         <div align="center">
           <a href="https://beast-nation.vercel.app" target="_blank">
@@ -139,7 +139,7 @@ const yeasin = {
             <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
           </p>
         </div>
-      </td>
+      </td> -->
       <td width="50%">
         <h3 align="center">Everlab</h3>
         <div align="center">
@@ -157,7 +157,7 @@ const yeasin = {
       </td>
     </tr>
     <tr>
-      <td width="50%">
+<!--       <td width="50%">
         <h3 align="center">VidSumAI</h3>
         <div align="center">
           <a href="https://vidsum-ai-ten.vercel.app" target="_blank">
@@ -186,7 +186,7 @@ const yeasin = {
             <img src="https://img.shields.io/badge/APIs-0052CC?style=flat" />
           </p>
         </div>
-      </td>
+      </td> -->
     </tr>
   </table>
 </div>
